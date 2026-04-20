@@ -1,4 +1,4 @@
-# BÀI TẬP Lý THUYẾT BUỔI 7 - KẾT QUẢ THỰC HIỆN
+# BÀI TẬP LÝ THUYẾT BUỔI 7 - KẾT QUẢ THỰC HIỆN
 **Sinh viên:** Nguyễn Phạm Bảo Khanh  
 **Mã sinh viên:** 6451071033
 
